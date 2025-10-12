@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sbaie\\OneDrive\\Documentos\\Projetos\\Momozinho mais linda desse mundinho cut cut\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6786EB88-6E1A-41BE-AB90-C6617A306107}|WebApplication1\\WebApplication1.csproj|c:\\users\\sbaie\\onedrive\\documentos\\projetos\\momozinho mais linda desse mundinho cut cut\\webapplication1\\repository\\usuariosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6786EB88-6E1A-41BE-AB90-C6617A306107}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\repository\\usuariosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6786EB88-6E1A-41BE-AB90-C6617A306107}|WebApplication1\\WebApplication1.csproj|c:\\users\\sbaie\\onedrive\\documentos\\projetos\\momozinho mais linda desse mundinho cut cut\\webapplication1\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6786EB88-6E1A-41BE-AB90-C6617A306107}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6786EB88-6E1A-41BE-AB90-C6617A306107}|WebApplication1\\WebApplication1.csproj|c:\\users\\sbaie\\onedrive\\documentos\\projetos\\momozinho mais linda desse mundinho cut cut\\webapplication1\\models\\incidente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6786EB88-6E1A-41BE-AB90-C6617A306107}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\incidente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6786EB88-6E1A-41BE-AB90-C6617A306107}|WebApplication1\\WebApplication1.csproj|c:\\users\\sbaie\\onedrive\\documentos\\projetos\\momozinho mais linda desse mundinho cut cut\\webapplication1\\models\\trem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6786EB88-6E1A-41BE-AB90-C6617A306107}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\trem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6786EB88-6E1A-41BE-AB90-C6617A306107}|WebApplication1\\WebApplication1.csproj|c:\\users\\sbaie\\onedrive\\documentos\\projetos\\momozinho mais linda desse mundinho cut cut\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6786EB88-6E1A-41BE-AB90-C6617A306107}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6786EB88-6E1A-41BE-AB90-C6617A306107}|WebApplication1\\WebApplication1.csproj|c:\\users\\sbaie\\onedrive\\documentos\\projetos\\momozinho mais linda desse mundinho cut cut\\webapplication1\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6786EB88-6E1A-41BE-AB90-C6617A306107}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6786EB88-6E1A-41BE-AB90-C6617A306107}|WebApplication1\\WebApplication1.csproj|c:\\users\\sbaie\\onedrive\\documentos\\projetos\\momozinho mais linda desse mundinho cut cut\\webapplication1\\models\\usuariorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6786EB88-6E1A-41BE-AB90-C6617A306107}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\usuariorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6786EB88-6E1A-41BE-AB90-C6617A306107}|WebApplication1\\WebApplication1.csproj|c:\\users\\sbaie\\onedrive\\documentos\\projetos\\momozinho mais linda desse mundinho cut cut\\webapplication1\\services\\usuarioservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6786EB88-6E1A-41BE-AB90-C6617A306107}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\services\\usuarioservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6786EB88-6E1A-41BE-AB90-C6617A306107}|WebApplication1\\WebApplication1.csproj|c:\\users\\sbaie\\onedrive\\documentos\\projetos\\momozinho mais linda desse mundinho cut cut\\webapplication1\\exception\\entradainvalidaexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6786EB88-6E1A-41BE-AB90-C6617A306107}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\exception\\entradainvalidaexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6786EB88-6E1A-41BE-AB90-C6617A306107}|WebApplication1\\WebApplication1.csproj|c:\\users\\sbaie\\onedrive\\documentos\\projetos\\momozinho mais linda desse mundinho cut cut\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6786EB88-6E1A-41BE-AB90-C6617A306107}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6786EB88-6E1A-41BE-AB90-C6617A306107}|WebApplication1\\WebApplication1.csproj|c:\\users\\sbaie\\onedrive\\documentos\\projetos\\momozinho mais linda desse mundinho cut cut\\webapplication1\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6786EB88-6E1A-41BE-AB90-C6617A306107}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6786EB88-6E1A-41BE-AB90-C6617A306107}|WebApplication1\\WebApplication1.csproj|c:\\users\\sbaie\\onedrive\\documentos\\projetos\\momozinho mais linda desse mundinho cut cut\\webapplication1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6786EB88-6E1A-41BE-AB90-C6617A306107}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\sbaie\\OneDrive\\Documentos\\Projetos\\Momozinho mais linda desse mundinho cut cut\\WebApplication1\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\sbaie\\OneDrive\\Documentos\\Projetos\\Momozinho mais linda desse mundinho cut cut\\WebApplication1\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAwBUAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T22:04:00.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UsuarioServices.cs",
+              "DocumentMoniker": "C:\\Users\\sbaie\\OneDrive\\Documentos\\Projetos\\Momozinho mais linda desse mundinho cut cut\\WebApplication1\\Services\\UsuarioServices.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Services\\UsuarioServices.cs",
+              "ToolTip": "C:\\Users\\sbaie\\OneDrive\\Documentos\\Projetos\\Momozinho mais linda desse mundinho cut cut\\WebApplication1\\Services\\UsuarioServices.cs",
+              "RelativeToolTip": "WebApplication1\\Services\\UsuarioServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T20:55:23.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuariosRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sbaie\\OneDrive\\Documentos\\Projetos\\Momozinho mais linda desse mundinho cut cut\\WebApplication1\\Repository\\UsuariosRepository.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Repository\\UsuariosRepository.cs",
+              "ToolTip": "C:\\Users\\sbaie\\OneDrive\\Documentos\\Projetos\\Momozinho mais linda desse mundinho cut cut\\WebApplication1\\Repository\\UsuariosRepository.cs",
+              "RelativeToolTip": "WebApplication1\\Repository\\UsuariosRepository.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAMwBEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T20:54:27.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\sbaie\\OneDrive\\Documentos\\Projetos\\Momozinho mais linda desse mundinho cut cut\\WebApplication1\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\sbaie\\OneDrive\\Documentos\\Projetos\\Momozinho mais linda desse mundinho cut cut\\WebApplication1\\Models\\Usuario.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T20:26:19.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Trem.cs",
+              "DocumentMoniker": "C:\\Users\\sbaie\\OneDrive\\Documentos\\Projetos\\Momozinho mais linda desse mundinho cut cut\\WebApplication1\\Models\\Trem.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Trem.cs",
+              "ToolTip": "C:\\Users\\sbaie\\OneDrive\\Documentos\\Projetos\\Momozinho mais linda desse mundinho cut cut\\WebApplication1\\Models\\Trem.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Trem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T20:23:11.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Incidente.cs",
+              "DocumentMoniker": "C:\\Users\\sbaie\\OneDrive\\Documentos\\Projetos\\Momozinho mais linda desse mundinho cut cut\\WebApplication1\\Models\\Incidente.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Incidente.cs",
+              "ToolTip": "C:\\Users\\sbaie\\OneDrive\\Documentos\\Projetos\\Momozinho mais linda desse mundinho cut cut\\WebApplication1\\Models\\Incidente.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Incidente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T20:11:13.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\sbaie\\OneDrive\\Documentos\\Projetos\\Momozinho mais linda desse mundinho cut cut\\WebApplication1\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\sbaie\\OneDrive\\Documentos\\Projetos\\Momozinho mais linda desse mundinho cut cut\\WebApplication1\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "WebApplication1\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAoAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T20:07:27.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sbaie\\OneDrive\\Documentos\\Projetos\\Momozinho mais linda desse mundinho cut cut\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "C:\\Users\\sbaie\\OneDrive\\Documentos\\Projetos\\Momozinho mais linda desse mundinho cut cut\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T19:51:01.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UsuarioRequest.cs",
+              "DocumentMoniker": "C:\\Users\\sbaie\\OneDrive\\Documentos\\Projetos\\Momozinho mais linda desse mundinho cut cut\\WebApplication1\\Models\\UsuarioRequest.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\UsuarioRequest.cs",
+              "ToolTip": "C:\\Users\\sbaie\\OneDrive\\Documentos\\Projetos\\Momozinho mais linda desse mundinho cut cut\\WebApplication1\\Models\\UsuarioRequest.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\UsuarioRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T23:13:43.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EntradaInvalidaException.cs",
+              "DocumentMoniker": "C:\\Users\\sbaie\\OneDrive\\Documentos\\Projetos\\Momozinho mais linda desse mundinho cut cut\\WebApplication1\\Exception\\EntradaInvalidaException.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Exception\\EntradaInvalidaException.cs",
+              "ToolTip": "C:\\Users\\sbaie\\OneDrive\\Documentos\\Projetos\\Momozinho mais linda desse mundinho cut cut\\WebApplication1\\Exception\\EntradaInvalidaException.cs",
+              "RelativeToolTip": "WebApplication1\\Exception\\EntradaInvalidaException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T22:19:17.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\sbaie\\OneDrive\\Documentos\\Projetos\\Momozinho mais linda desse mundinho cut cut\\WebApplication1\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebApplication1\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\sbaie\\OneDrive\\Documentos\\Projetos\\Momozinho mais linda desse mundinho cut cut\\WebApplication1\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebApplication1\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-11T19:51:30.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\sbaie\\OneDrive\\Documentos\\Projetos\\Momozinho mais linda desse mundinho cut cut\\WebApplication1\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication1\\appsettings.json",
+              "ToolTip": "C:\\Users\\sbaie\\OneDrive\\Documentos\\Projetos\\Momozinho mais linda desse mundinho cut cut\\WebApplication1\\appsettings.json",
+              "RelativeToolTip": "WebApplication1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAADOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-11T19:51:20.256Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

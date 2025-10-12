@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "WebApplication1.Controllers.UsuarioController",
+    "Method": "Login",
+    "RelativePath": "api/Usuario/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "loginRequest",
+        "Type": "WebApplication1.Models.UsuarioRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

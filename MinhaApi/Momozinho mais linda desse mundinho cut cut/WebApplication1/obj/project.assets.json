@@ -1345,11 +1345,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sbaie\\.vscode\\cli\\invencivelAPI\\MinhaApi\\Momozinho mais linda desse mundinho cut cut\\WebApplication1\\WebApplication1.csproj",
-      "projectName": "WebApplication1",
-      "projectPath": "C:\\Users\\sbaie\\.vscode\\cli\\invencivelAPI\\MinhaApi\\Momozinho mais linda desse mundinho cut cut\\WebApplication1\\WebApplication1.csproj",
+      "projectUniqueName": "C:\\Users\\sbaie\\Source\\Repos\\invencivelAPI\\MinhaApi\\Momozinho mais linda desse mundinho cut cut\\WebApplication1\\Ferrorama.csproj",
+      "projectName": "Ferrorama",
+      "projectPath": "C:\\Users\\sbaie\\Source\\Repos\\invencivelAPI\\MinhaApi\\Momozinho mais linda desse mundinho cut cut\\WebApplication1\\Ferrorama.csproj",
       "packagesPath": "C:\\Users\\sbaie\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sbaie\\.vscode\\cli\\invencivelAPI\\MinhaApi\\Momozinho mais linda desse mundinho cut cut\\WebApplication1\\obj\\",
+      "outputPath": "C:\\Users\\sbaie\\Source\\Repos\\invencivelAPI\\MinhaApi\\Momozinho mais linda desse mundinho cut cut\\WebApplication1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1420,13 +1420,5 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1900",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Ocorreu um erro ao obter os dados de vulnerabilidade do pacote: Não é possível carregar o índice de serviço para a origem https://api.nuget.org/v3/index.json."
-    }
-  ]
+  }
 }

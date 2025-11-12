@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sbaie\\Source\\Repos\\invencivelAPI\\MinhaApi\\Momozinho mais linda desse mundinho cut cut\\WebApplication1\\WebApplication1.csproj": {}
+    "C:\\Users\\sbaie\\Source\\Repos\\invencivelAPI\\MinhaApi\\Momozinho mais linda desse mundinho cut cut\\WebApplication1\\Ferrorama.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sbaie\\Source\\Repos\\invencivelAPI\\MinhaApi\\Momozinho mais linda desse mundinho cut cut\\WebApplication1\\WebApplication1.csproj": {
+    "C:\\Users\\sbaie\\Source\\Repos\\invencivelAPI\\MinhaApi\\Momozinho mais linda desse mundinho cut cut\\WebApplication1\\Ferrorama.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sbaie\\Source\\Repos\\invencivelAPI\\MinhaApi\\Momozinho mais linda desse mundinho cut cut\\WebApplication1\\WebApplication1.csproj",
-        "projectName": "WebApplication1",
-        "projectPath": "C:\\Users\\sbaie\\Source\\Repos\\invencivelAPI\\MinhaApi\\Momozinho mais linda desse mundinho cut cut\\WebApplication1\\WebApplication1.csproj",
+        "projectUniqueName": "C:\\Users\\sbaie\\Source\\Repos\\invencivelAPI\\MinhaApi\\Momozinho mais linda desse mundinho cut cut\\WebApplication1\\Ferrorama.csproj",
+        "projectName": "Ferrorama",
+        "projectPath": "C:\\Users\\sbaie\\Source\\Repos\\invencivelAPI\\MinhaApi\\Momozinho mais linda desse mundinho cut cut\\WebApplication1\\Ferrorama.csproj",
         "packagesPath": "C:\\Users\\sbaie\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\sbaie\\Source\\Repos\\invencivelAPI\\MinhaApi\\Momozinho mais linda desse mundinho cut cut\\WebApplication1\\obj\\",
         "projectStyle": "PackageReference",

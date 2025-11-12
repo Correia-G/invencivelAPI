@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uc7uDEwXufY=",
+  "dgSpecHash": "CTj4VPsxQkM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\sbaie\\.vscode\\cli\\invencivelAPI\\MinhaApi\\Momozinho mais linda desse mundinho cut cut\\WebApplication1\\WebApplication1.csproj",
+  "projectFilePath": "C:\\Users\\sbaie\\Source\\Repos\\invencivelAPI\\MinhaApi\\Momozinho mais linda desse mundinho cut cut\\WebApplication1\\Ferrorama.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sbaie\\.nuget\\packages\\microsoft.entityframeworkcore\\9.0.1\\microsoft.entityframeworkcore.9.0.1.nupkg.sha512",
     "C:\\Users\\sbaie\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\9.0.1\\microsoft.entityframeworkcore.abstractions.9.0.1.nupkg.sha512",
@@ -32,15 +32,5 @@
     "C:\\Users\\sbaie\\.nuget\\packages\\system.diagnostics.diagnosticsource\\9.0.1\\system.diagnostics.diagnosticsource.9.0.1.nupkg.sha512",
     "C:\\Users\\sbaie\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1900",
-      "level": "Warning",
-      "message": "Ocorreu um erro ao obter os dados de vulnerabilidade do pacote: Não é possível carregar o índice de serviço para a origem https://api.nuget.org/v3/index.json.",
-      "projectPath": "C:\\Users\\sbaie\\.vscode\\cli\\invencivelAPI\\MinhaApi\\Momozinho mais linda desse mundinho cut cut\\WebApplication1\\WebApplication1.csproj",
-      "warningLevel": 1,
-      "filePath": "C:\\Users\\sbaie\\.vscode\\cli\\invencivelAPI\\MinhaApi\\Momozinho mais linda desse mundinho cut cut\\WebApplication1\\WebApplication1.csproj",
-      "targetGraphs": []
-    }
-  ]
+  "logs": []
 }
